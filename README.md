@@ -1,4 +1,4 @@
-### Hi there, I'm Shahnewaz 👋
+### Hi there 👋
 
 <!--
 **shahnewaz601/shahnewaz601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
