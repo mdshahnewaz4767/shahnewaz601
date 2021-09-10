@@ -32,15 +32,11 @@
 [<img align="left" alt="mongoDB"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodbLink]
 [<img align="left" alt="node.js"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodeLink]
 [<img align="left" alt="tailwind"  width="28px" src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw.png" />][tailwindLink]
-[<img align="left" alt="sass"  width="28px" src="https://spng.subpng.com/20180815/ta/kisspng-sass-logo-cascading-style-sheets-scalable-vector-g-codzero-cms-blog-tool-publishing-platform-5b74aaa0a0f4b2.3928971215343725126593.jpg" />][sassLink]
-[<img align="left" alt="redux"  width="28px" src="https://img1.pnghut.com/t/6/2/11/jgqqi22Sji/javascript-violet-redux-bootstrap-software-deployment.jpg" />][reduxLink]
 [<img align="left" alt="ClickUp"  width="28px" src="https://avatars.slack-edge.com/2019-05-01/612540453362_485caf78505e3b90041d_512.png" />][clickupLink]
 [<img align="left" alt="Visual Studio Code"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsLink]
-
 [<img align="left" alt="Git"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitLink]
 [<img align="left" alt="terminal"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminalLink]
 [<img align="left" alt="heroku"  width="28px" src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" />][herokuLink]
-[<img align="left" alt="jira"  width="28px" src="https://p.kindpng.com/picc/s/278-2785101_jira-logo-png-transparent-png.png" />][jiraLink]
 
 
 
