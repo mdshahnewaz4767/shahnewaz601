@@ -14,7 +14,6 @@
 ### Connect with me: 
 
 [![LinkedIn Connect](https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnewaz601/)
-[![Facebook Follow](https://img.shields.io/badge/+Add_Friend-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/MuhammadShahnewaz601/)
 [![Medium Follow](https://img.shields.io/badge/Blogs-12100E?style=flat-square&logo=medium&logoColor=white)](https://shahnewaz601.medium.com/)
 [![Stack Over Flow](https://img.shields.io/badge/Questions-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10488374/muhammad-shahnewaz)
 [![Hackerrank Profile](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shahnewaz601)
@@ -37,6 +36,7 @@
 [<img align="left" alt="redux"  width="28px" src="https://img1.pnghut.com/t/6/2/11/jgqqi22Sji/javascript-violet-redux-bootstrap-software-deployment.jpg" />][reduxLink]
 [<img align="left" alt="ClickUp"  width="28px" src="https://avatars.slack-edge.com/2019-05-01/612540453362_485caf78505e3b90041d_512.png" />][clickupLink]
 [<img align="left" alt="Visual Studio Code"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsLink]
+
 [<img align="left" alt="Git"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitLink]
 [<img align="left" alt="terminal"  width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminalLink]
 [<img align="left" alt="heroku"  width="28px" src="https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg" />][herokuLink]
