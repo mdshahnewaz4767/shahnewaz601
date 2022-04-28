@@ -6,7 +6,7 @@
 - 🔭 I’m currently learning Next.js!
 - 🤝 I’m looking to collaborate on any Project
 - 🕵 I love working with a technically strong team where I can explore my weaknesses.
-- 🥅 2021 Goals: TypeScript, Mongoose, GraphQL
+- 🥅 2022 Goals: TypeScript, Socket.io.
 - 📫 Please feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shahnewaz601/)
 - 📝 Checkout my ongoing [Portfolio](https://shahnewaz-portfolio.web.app/)
 - ⚡ Fun fact: I love to explore new technologies
