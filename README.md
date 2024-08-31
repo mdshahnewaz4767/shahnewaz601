@@ -12,4 +12,4 @@
 
 - **Expertise:** JavaScript, TypeScript, React.js, Next.js, Redux, ES6, GraphQL (including subscriptions), Stripe, REST API, Chart.js, Material-UI, Ant Design, Tailwind CSS, Bootstrap, CSS3, HTML5
 - **Familiar:** Socket.io, React Native, Node.js, Express.js, MongoDB, SASS, jQuery
-- **Tools:** Sanity, Git, NPM, ClickUp, VS Code, Jira, Chrome Dev Tool, Firebase, Heroku, Netlify, WebStorm, Sublime Text
+- **Tools:** Sanity, Git, NPM, ClickUp, VS Code, Jira, Chrome Dev Tool, Firebase, Heroku, Netlify, WebStorm
